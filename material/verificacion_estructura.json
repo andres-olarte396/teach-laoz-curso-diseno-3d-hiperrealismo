@@ -1,0 +1,15 @@
+{
+  "phase": "entrega completa",
+  "weeks": 26,
+  "sessions": 182,
+  "minutes_per_session": 20,
+  "total_active_minutes": 3640,
+  "subtopics": 52,
+  "checked_local_links": 604,
+  "errors": [],
+  "warnings": [],
+  "limits": [
+    "La validación automática no demuestra ejecución en Blender ni eficacia con una persona real.",
+    "El tiempo de máquina para renderizar se documenta fuera del tiempo activo."
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "content_files": 52,
+  "unique_urls": 33,
+  "valid_urls": 33,
+  "results": [
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/compositing/introduction.html",
+      "status": 200,
+      "title": "Introduction - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/compositing/types/color/mix/alpha_over.html",
+      "status": 200,
+      "title": "Alpha Over Node - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/editors/3dview/3d_cursor.html",
+      "status": 200,
+      "title": "3D Cursor - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/editors/3dview/navigate/projections.html",
+      "status": 200,
+      "title": "Perspective/Orthographic - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/editors/3dview/navigate/viewpoint.html",
+      "status": 200,
+      "title": "Viewpoint - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/files/blend/packed_data.html",
+      "status": 200,
+      "title": "Packed Data - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/interface/window_system/introduction.html",
+      "status": 200,
+      "title": "Window System Introduction - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/modeling/curves/properties/geometry.html",
+      "status": 200,
+      "title": "Geometry - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/editing/face/inset_faces.html",
+      "status": 200,
+      "title": "Inset Faces - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/editing/mesh/normals.html",
+      "status": 200,
+      "title": "Editing Normals - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/editing/mesh/separate.html",
+      "status": 200,
+      "title": "Separate - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/selecting/introduction.html",
+      "status": 200,
+      "title": "Introduction - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/uv/editing.html",
+      "status": 200,
+      "title": "Editing UVs - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/uv/unwrapping/introduction.html",
+      "status": 200,
+      "title": "Introduction - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/uv/unwrapping/seams.html",
+      "status": 200,
+      "title": "Seams - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/modeling/modifiers/generate/bevel.html",
+      "status": 200,
+      "title": "Bevel Modifier - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/modeling/modifiers/generate/booleans.html",
+      "status": 200,
+      "title": "Boolean Modifier - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/modeling/modifiers/generate/mirror.html",
+      "status": 200,
+      "title": "Mirror Modifier - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/modeling/modifiers/generate/subdivision_surface.html",
+      "status": 200,
+      "title": "Subdivision Surface Modifier - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/render/cameras.html",
+      "status": 200,
+      "title": "Cameras - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/render/color_management.html",
+      "status": 200,
+      "title": "Color Management - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/render/cycles/object_settings/object_data.html",
+      "status": 200,
+      "title": "Object - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/render/cycles/render_settings/sampling.html",
+      "status": 200,
+      "title": "Sampling - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/render/lights/light_object.html",
+      "status": 200,
+      "title": "Light Objects - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/render/materials/assignment.html",
+      "status": 200,
+      "title": "Assignment - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/render/output/properties/output.html",
+      "status": 200,
+      "title": "Output - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/render/shader_nodes/shader/principled.html",
+      "status": 200,
+      "title": "Principled BSDF - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/render/shader_nodes/textures/image.html",
+      "status": 200,
+      "title": "Image Texture Node - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/render/shader_nodes/textures/noise.html",
+      "status": 200,
+      "title": "Noise Texture Node - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/render/shader_nodes/vector/bump.html",
+      "status": 200,
+      "title": "Bump Node - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/scene_layout/object/editing/apply.html",
+      "status": 200,
+      "title": "Apply - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/scene_layout/object/editing/shading.html",
+      "status": 200,
+      "title": "Shading - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    },
+    {
+      "url": "https://docs.blender.org/manual/en/4.5/scene_layout/object/editing/transform/move.html",
+      "status": 200,
+      "title": "Move - Blender 4.5 LTS Manual",
+      "checked": "2026-10-05",
+      "valid": true
+    }
+  ]
+}

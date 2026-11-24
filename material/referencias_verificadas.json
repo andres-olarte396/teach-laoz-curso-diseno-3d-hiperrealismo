@@ -1,0 +1,380 @@
+[
+  {
+    "path": "interface/window_system/introduction.html",
+    "url": "https://docs.blender.org/manual/en/4.5/interface/window_system/introduction.html",
+    "status": 200,
+    "title": "Window System Introduction - Blender 4.5 LTS Manual",
+    "quote": "After starting Blender and closing the Splash Screen, the Blender",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "editors/3dview/navigate/projections.html",
+    "url": "https://docs.blender.org/manual/en/4.5/editors/3dview/navigate/projections.html",
+    "status": 200,
+    "title": "Perspective/Orthographic - Blender 4.5 LTS Manual",
+    "quote": "All modes",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "scene_layout/object/editing/transform/introduction.html",
+    "url": "https://docs.blender.org/manual/en/4.5/scene_layout/object/editing/transform/introduction.html",
+    "status": 200,
+    "title": "Introduction - Blender 4.5 LTS Manual",
+    "quote": "Transformations refer to a number of operations that can be",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "scene_layout/object/editing/transform/control/orientations.html",
+    "url": "https://docs.blender.org/manual/en/4.5/scene_layout/object/editing/transform/control/orientations.html",
+    "status": 0,
+    "title": "",
+    "quote": "",
+    "checked": "2026-10-05",
+    "error": "Response status code does not indicate success: 404 (Not Found)."
+  },
+  {
+    "path": "scene_layout/object/editing/transform/scale.html",
+    "url": "https://docs.blender.org/manual/en/4.5/scene_layout/object/editing/transform/scale.html",
+    "status": 200,
+    "title": "Scale - Blender 4.5 LTS Manual",
+    "quote": "Object and Edit Modes",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "modeling/meshes/introduction.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/introduction.html",
+    "status": 200,
+    "title": "Introduction - Blender 4.5 LTS Manual",
+    "quote": "Mesh Modeling typically begins with a Mesh Primitive shape (e.g.",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "modeling/meshes/structure.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/structure.html",
+    "status": 200,
+    "title": "Mesh Structure - Blender 4.5 LTS Manual",
+    "quote": "With meshes, everything is built from three basic elements: vertices,",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "modeling/meshes/editing/mesh/extrude.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/editing/mesh/extrude.html",
+    "status": 200,
+    "title": "Extrude - Blender 4.5 LTS Manual",
+    "quote": "Edit Mode",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "modeling/meshes/editing/face/inset.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/editing/face/inset.html",
+    "status": 0,
+    "title": "",
+    "quote": "",
+    "checked": "2026-10-05",
+    "error": "Response status code does not indicate success: 404 (Not Found)."
+  },
+  {
+    "path": "modeling/modifiers/generate/mirror.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/modifiers/generate/mirror.html",
+    "status": 200,
+    "title": "Mirror Modifier - Blender 4.5 LTS Manual",
+    "quote": "The Mirror modifier mirrors a mesh along its local X,",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "modeling/modifiers/generate/boolean.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/modifiers/generate/boolean.html",
+    "status": 0,
+    "title": "",
+    "quote": "",
+    "checked": "2026-10-05",
+    "error": "Response status code does not indicate success: 404 (Not Found)."
+  },
+  {
+    "path": "modeling/modifiers/generate/bevel.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/modifiers/generate/bevel.html",
+    "status": 200,
+    "title": "Bevel Modifier - Blender 4.5 LTS Manual",
+    "quote": "The Bevel modifier.¶",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "modeling/meshes/editing/edge/bevel.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/editing/edge/bevel.html",
+    "status": 200,
+    "title": "Bevel Edges - Blender 4.5 LTS Manual",
+    "quote": "Edit Mode",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "modeling/curves/introduction.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/curves/introduction.html",
+    "status": 200,
+    "title": "Introduction - Blender 4.5 LTS Manual",
+    "quote": "Curves and Surfaces are particular types of Blender objects. They",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "modeling/curves/properties/geometry.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/curves/properties/geometry.html",
+    "status": 200,
+    "title": "Geometry - Blender 4.5 LTS Manual",
+    "quote": "Geometry panel.¶",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "modeling/modifiers/generate/subdivision_surface.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/modifiers/generate/subdivision_surface.html",
+    "status": 200,
+    "title": "Subdivision Surface Modifier - Blender 4.5 LTS Manual",
+    "quote": "The Subdivision Surface modifier (often shortened as slang to “Subdiv”",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "modeling/meshes/uv/introduction.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/uv/introduction.html",
+    "status": 0,
+    "title": "",
+    "quote": "",
+    "checked": "2026-10-05",
+    "error": "Response status code does not indicate success: 404 (Not Found)."
+  },
+  {
+    "path": "modeling/meshes/uv/unwrapping/seams.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/uv/unwrapping/seams.html",
+    "status": 200,
+    "title": "Seams - Blender 4.5 LTS Manual",
+    "quote": "For many cases, using the Unwrap calculations of Cube, Cylinder,",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "render/shader_nodes/textures/image.html",
+    "url": "https://docs.blender.org/manual/en/4.5/render/shader_nodes/textures/image.html",
+    "status": 200,
+    "title": "Image Texture Node - Blender 4.5 LTS Manual",
+    "quote": "Used for applying an image as a texture.",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "render/shader_nodes/shader/principled.html",
+    "url": "https://docs.blender.org/manual/en/4.5/render/shader_nodes/shader/principled.html",
+    "status": 200,
+    "title": "Principled BSDF - Blender 4.5 LTS Manual",
+    "quote": "The Principled BSDF that combines multiple layers into a single",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "render/shader_nodes/vector/bump.html",
+    "url": "https://docs.blender.org/manual/en/4.5/render/shader_nodes/vector/bump.html",
+    "status": 200,
+    "title": "Bump Node - Blender 4.5 LTS Manual",
+    "quote": "The Bump node generates a perturbed normal from a height",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "render/shader_nodes/vector/normal_map.html",
+    "url": "https://docs.blender.org/manual/en/4.5/render/shader_nodes/vector/normal_map.html",
+    "status": 200,
+    "title": "Normal Map Node - Blender 4.5 LTS Manual",
+    "quote": "The Normal Map node generates a perturbed normal from an",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "render/cameras.html",
+    "url": "https://docs.blender.org/manual/en/4.5/render/cameras.html",
+    "status": 200,
+    "title": "Cameras - Blender 4.5 LTS Manual",
+    "quote": "A camera is an object that provides a means of",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "render/lights/light_object.html",
+    "url": "https://docs.blender.org/manual/en/4.5/render/lights/light_object.html",
+    "status": 200,
+    "title": "Light Objects - Blender 4.5 LTS Manual",
+    "quote": "Properties ‣ Object Data and Shader Editor ‣ Sidebar ‣",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "render/cycles/render_settings/sampling.html",
+    "url": "https://docs.blender.org/manual/en/4.5/render/cycles/render_settings/sampling.html",
+    "status": 200,
+    "title": "Sampling - Blender 4.5 LTS Manual",
+    "quote": "Render ‣ Sampling",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "render/cycles/render_settings/light_paths.html",
+    "url": "https://docs.blender.org/manual/en/4.5/render/cycles/render_settings/light_paths.html",
+    "status": 200,
+    "title": "Light Paths - Blender 4.5 LTS Manual",
+    "quote": "Render ‣ Light Paths",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "render/color_management.html",
+    "url": "https://docs.blender.org/manual/en/4.5/render/color_management.html",
+    "status": 200,
+    "title": "Color Management - Blender 4.5 LTS Manual",
+    "quote": "Color management is important to create renders and assets that",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "compositing/introduction.html",
+    "url": "https://docs.blender.org/manual/en/4.5/compositing/introduction.html",
+    "status": 200,
+    "title": "Introduction - Blender 4.5 LTS Manual",
+    "quote": "Compositing Nodes allow you to assemble and enhance an image",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "compositing/types/color/mix/alpha_over.html",
+    "url": "https://docs.blender.org/manual/en/4.5/compositing/types/color/mix/alpha_over.html",
+    "status": 200,
+    "title": "Alpha Over Node - Blender 4.5 LTS Manual",
+    "quote": "The Alpha Over node is used to layer an image",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "render/layers/passes.html",
+    "url": "https://docs.blender.org/manual/en/4.5/render/layers/passes.html",
+    "status": 200,
+    "title": "Passes - Blender 4.5 LTS Manual",
+    "quote": "Properties ‣ View Layer ‣ Passes",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "render/cycles/object_settings/object_data.html",
+    "url": "https://docs.blender.org/manual/en/4.5/render/cycles/object_settings/object_data.html",
+    "status": 200,
+    "title": "Object - Blender 4.5 LTS Manual",
+    "quote": "Object Properties ‣ Visibility",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "render/output/properties/output.html",
+    "url": "https://docs.blender.org/manual/en/4.5/render/output/properties/output.html",
+    "status": 200,
+    "title": "Output - Blender 4.5 LTS Manual",
+    "quote": "Output panel.¶",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "files/blend/packed_data.html",
+    "url": "https://docs.blender.org/manual/en/4.5/files/blend/packed_data.html",
+    "status": 200,
+    "title": "Packed Data - Blender 4.5 LTS Manual",
+    "quote": "Blender has the ability to encapsulate (incorporate) various kinds of",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "files/blend/save_load.html",
+    "url": "https://docs.blender.org/manual/en/4.5/files/blend/save_load.html",
+    "status": 0,
+    "title": "",
+    "quote": "",
+    "checked": "2026-10-05",
+    "error": "Response status code does not indicate success: 404 (Not Found)."
+  },
+  {
+    "path": "render/cycles/introduction.html",
+    "url": "https://docs.blender.org/manual/en/4.5/render/cycles/introduction.html",
+    "status": 200,
+    "title": "Introduction - Blender 4.5 LTS Manual",
+    "quote": "Cycles is Blender’s physically-based path tracer for production rendering. It",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "modeling/meshes/uv/unwrapping/introduction.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/uv/unwrapping/introduction.html",
+    "status": 200,
+    "title": "Introduction - Blender 4.5 LTS Manual",
+    "quote": "The first step is to unwrap your mesh. Generally, it",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "editors/3dview/controls/orientation.html",
+    "url": "https://docs.blender.org/manual/en/4.5/editors/3dview/controls/orientation.html",
+    "status": 200,
+    "title": "Transform Orientation - Blender 4.5 LTS Manual",
+    "quote": "The Transform Orientation determines the orientation of the Object Gizmo.",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "modeling/meshes/editing/face/inset_faces.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/meshes/editing/face/inset_faces.html",
+    "status": 200,
+    "title": "Inset Faces - Blender 4.5 LTS Manual",
+    "quote": "This tool takes the currently selected faces and creates an",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "modeling/modifiers/generate/booleans.html",
+    "url": "https://docs.blender.org/manual/en/4.5/modeling/modifiers/generate/booleans.html",
+    "status": 200,
+    "title": "Boolean Modifier - Blender 4.5 LTS Manual",
+    "quote": "The Boolean modifier combines multiple meshes using a Boolean operation.",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "compositing/types/color/alpha_convert.html",
+    "url": "https://docs.blender.org/manual/en/4.5/compositing/types/color/alpha_convert.html",
+    "status": 200,
+    "title": "Alpha Convert Node - Blender 4.5 LTS Manual",
+    "quote": "The Alpha Convert Node converts the alpha channel format of",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "movie_clip/masking/editing.html",
+    "url": "https://docs.blender.org/manual/en/4.5/movie_clip/masking/editing.html",
+    "status": 200,
+    "title": "Editing Masks - Blender 4.5 LTS Manual",
+    "quote": "The tools and panels available to edit masks are the",
+    "checked": "2026-10-05",
+    "publication_year": null
+  },
+  {
+    "path": "scene_layout/object/properties/transforms.html",
+    "url": "https://docs.blender.org/manual/en/4.5/scene_layout/object/properties/transforms.html",
+    "status": 200,
+    "title": "Transform - Blender 4.5 LTS Manual",
+    "quote": "The Transform panel in the Sidebar region allows you to",
+    "checked": "2026-10-05",
+    "publication_year": null
+  }
+]

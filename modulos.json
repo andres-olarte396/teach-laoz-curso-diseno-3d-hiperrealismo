@@ -1,0 +1,1276 @@
+[
+  {
+    "modulo_id": 1,
+    "titulo": "Puntos y orientación en el espacio",
+    "semana": 1,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Ubicar 8 de 10 puntos correctamente y recuperar el archivo de trabajo",
+    "evidencia": "Recorrido de puntos y carpeta organizada",
+    "prerrequisitos": [
+      "Manejo básico de archivos y ratón; coordenadas se enseñan aquí"
+    ],
+    "temas": [
+      {
+        "tema_id": "1.1",
+        "titulo": "Puntos y orientación en el espacio",
+        "subtemas": [
+          {
+            "subtema_id": "1.1.1",
+            "titulo": "Diagnóstico, preparación de Blender e interfaz",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "1.1.2",
+            "titulo": "Origen, ejes, coordenadas y guardado de archivos",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Ubicar 8 de 10 puntos correctamente y recuperar el archivo de trabajo"
+    }
+  },
+  {
+    "modulo_id": 2,
+    "titulo": "Transformaciones y medidas",
+    "semana": 2,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Colocar tres objetos según coordenadas y medidas con error máximo del 2 %",
+    "evidencia": "Composición de tres volúmenes medidos",
+    "prerrequisitos": [
+      "1.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "2.1",
+        "titulo": "Transformaciones y medidas",
+        "subtemas": [
+          {
+            "subtema_id": "2.1.1",
+            "titulo": "Traslación y coordenadas globales/locales",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "2.1.2",
+            "titulo": "Rotación, escala y pivote",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Colocar tres objetos según coordenadas y medidas con error máximo del 2 %"
+    }
+  },
+  {
+    "modulo_id": 3,
+    "titulo": "De vértices a volúmenes",
+    "semana": 3,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Construir una malla simple y corregir normales o huecos en dos ejemplos",
+    "evidencia": "Caja cerrada e inspección de normales",
+    "prerrequisitos": [
+      "2.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "3.1",
+        "titulo": "De vértices a volúmenes",
+        "subtemas": [
+          {
+            "subtema_id": "3.1.1",
+            "titulo": "Vértices, aristas, caras y normales",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "3.1.2",
+            "titulo": "Primitivas, selección y malla cerrada",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Construir una malla simple y corregir normales o huecos en dos ejemplos"
+    }
+  },
+  {
+    "modulo_id": 4,
+    "titulo": "Referencias y proporción",
+    "semana": 4,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Crear un bloqueo que respete tres dimensiones con error máximo del 5 %",
+    "evidencia": "Bloqueo de producto con ficha de medidas",
+    "prerrequisitos": [
+      "3.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "4.1",
+        "titulo": "Referencias y proporción",
+        "subtemas": [
+          {
+            "subtema_id": "4.1.1",
+            "titulo": "Lectura de fotografías y medidas",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "4.1.2",
+            "titulo": "Vistas ortográficas y bloqueo",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Crear un bloqueo que respete tres dimensiones con error máximo del 5 %"
+    }
+  },
+  {
+    "modulo_id": 5,
+    "titulo": "Construcción de piezas",
+    "semana": 5,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Construir dos componentes separados y modificar una medida sin rehacer la escena",
+    "evidencia": "Producto con base y tapa",
+    "prerrequisitos": [
+      "4.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "5.1",
+        "titulo": "Construcción de piezas",
+        "subtemas": [
+          {
+            "subtema_id": "5.1.1",
+            "titulo": "Extrusión, inserción y cortes",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "5.1.2",
+            "titulo": "Componentes y organización editable",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Construir dos componentes separados y modificar una medida sin rehacer la escena"
+    }
+  },
+  {
+    "modulo_id": 6,
+    "titulo": "Operaciones de modelado",
+    "semana": 6,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Aplicar espesor coherente y corregir un artefacto de construcción",
+    "evidencia": "Pieza simétrica con abertura",
+    "prerrequisitos": [
+      "5.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "6.1",
+        "titulo": "Operaciones de modelado",
+        "subtemas": [
+          {
+            "subtema_id": "6.1.1",
+            "titulo": "Simetría y espesor",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "6.1.2",
+            "titulo": "Booleanas y diagnóstico de artefactos",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Aplicar espesor coherente y corregir un artefacto de construcción"
+    }
+  },
+  {
+    "modulo_id": 7,
+    "titulo": "Bordes y sombreado",
+    "semana": 7,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Eliminar dos discontinuidades visibles y justificar el tamaño del bisel",
+    "evidencia": "Comparación de bordes antes y después",
+    "prerrequisitos": [
+      "6.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "7.1",
+        "titulo": "Bordes y sombreado",
+        "subtemas": [
+          {
+            "subtema_id": "7.1.1",
+            "titulo": "Biseles y lectura de bordes",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "7.1.2",
+            "titulo": "Normales y sombreado suave",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Eliminar dos discontinuidades visibles y justificar el tamaño del bisel"
+    }
+  },
+  {
+    "modulo_id": 8,
+    "titulo": "Curvas y superficies",
+    "semana": 8,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Crear una transición curva sin pinzamientos visibles en dos vistas",
+    "evidencia": "Asa o perfil redondeado",
+    "prerrequisitos": [
+      "7.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "8.1",
+        "titulo": "Curvas y superficies",
+        "subtemas": [
+          {
+            "subtema_id": "8.1.1",
+            "titulo": "Curvas y perfiles de producto",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "8.1.2",
+            "titulo": "Subdivisión y control de forma",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Crear una transición curva sin pinzamientos visibles en dos vistas"
+    }
+  },
+  {
+    "modulo_id": 9,
+    "titulo": "Coordenadas UV",
+    "semana": 9,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Desplegar una pieza manteniendo una cuadrícula sin deformaciones visibles en su zona principal",
+    "evidencia": "UV con cuadrícula de comprobación",
+    "prerrequisitos": [
+      "8.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "9.1",
+        "titulo": "Coordenadas UV",
+        "subtemas": [
+          {
+            "subtema_id": "9.1.1",
+            "titulo": "Costuras y desplegado",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "9.1.2",
+            "titulo": "Distorsión y densidad de textura",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Desplegar una pieza manteniendo una cuadrícula sin deformaciones visibles en su zona principal"
+    }
+  },
+  {
+    "modulo_id": 10,
+    "titulo": "Texturas y etiquetas",
+    "semana": 10,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Colocar una etiqueta medida y configurar correctamente un mapa de color y uno de datos",
+    "evidencia": "Producto etiquetado con referencias de tamaño",
+    "prerrequisitos": [
+      "9.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "10.1",
+        "titulo": "Texturas y etiquetas",
+        "subtemas": [
+          {
+            "subtema_id": "10.1.1",
+            "titulo": "Escala, orientación y etiqueta",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "10.1.2",
+            "titulo": "Mapas y espacios de color",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Colocar una etiqueta medida y configurar correctamente un mapa de color y uno de datos"
+    }
+  },
+  {
+    "modulo_id": 11,
+    "titulo": "Materiales PBR",
+    "semana": 11,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Diferenciar metal y plástico bajo iluminación constante y explicar sus propiedades",
+    "evidencia": "Comparativa de dos materiales",
+    "prerrequisitos": [
+      "10.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "11.1",
+        "titulo": "Materiales PBR",
+        "subtemas": [
+          {
+            "subtema_id": "11.1.1",
+            "titulo": "Color base, metal y rugosidad",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "11.1.2",
+            "titulo": "Relieve, normal y respuesta a la luz",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Diferenciar metal y plástico bajo iluminación constante y explicar sus propiedades"
+    }
+  },
+  {
+    "modulo_id": 12,
+    "titulo": "Imperfecciones y realismo",
+    "semana": 12,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Añadir dos detalles plausibles sin ocultar la forma del producto",
+    "evidencia": "Comparación de superficie nueva y usada",
+    "prerrequisitos": [
+      "11.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "12.1",
+        "titulo": "Imperfecciones y realismo",
+        "subtemas": [
+          {
+            "subtema_id": "12.1.1",
+            "titulo": "Microtextura a escala",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "12.1.2",
+            "titulo": "Desgaste e imperfecciones justificadas",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Añadir dos detalles plausibles sin ocultar la forma del producto"
+    }
+  },
+  {
+    "modulo_id": 13,
+    "titulo": "Cámara y composición",
+    "semana": 13,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Crear dos encuadres legibles y explicar sus diferencias de perspectiva",
+    "evidencia": "Vista de catálogo y vista contextual",
+    "prerrequisitos": [
+      "12.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "13.1",
+        "titulo": "Cámara y composición",
+        "subtemas": [
+          {
+            "subtema_id": "13.1.1",
+            "titulo": "Perspectiva, focal y posición",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "13.1.2",
+            "titulo": "Encuadre y profundidad de campo",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Crear dos encuadres legibles y explicar sus diferencias de perspectiva"
+    }
+  },
+  {
+    "modulo_id": 14,
+    "titulo": "Luz y sombras",
+    "semana": 14,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Predecir y verificar cambios de sombra al mover o ampliar una luz",
+    "evidencia": "Pruebas controladas de iluminación",
+    "prerrequisitos": [
+      "13.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "14.1",
+        "titulo": "Luz y sombras",
+        "subtemas": [
+          {
+            "subtema_id": "14.1.1",
+            "titulo": "Dirección, tamaño y dureza",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "14.1.2",
+            "titulo": "Luz principal, relleno y contacto",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Predecir y verificar cambios de sombra al mover o ampliar una luz"
+    }
+  },
+  {
+    "modulo_id": 15,
+    "titulo": "Estudio de producto",
+    "semana": 15,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Construir un estudio simple con reflejos que revelen la forma y sin distracciones",
+    "evidencia": "Escena de catálogo preparada",
+    "prerrequisitos": [
+      "14.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "15.1",
+        "titulo": "Estudio de producto",
+        "subtemas": [
+          {
+            "subtema_id": "15.1.1",
+            "titulo": "Fondo continuo y separación",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "15.1.2",
+            "titulo": "Entorno y control de reflejos",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Construir un estudio simple con reflejos que revelen la forma y sin distracciones"
+    }
+  },
+  {
+    "modulo_id": 16,
+    "titulo": "Render y presupuesto de calidad",
+    "semana": 16,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Comparar dos ajustes y elegir uno que conserve detalle dentro del equipo disponible",
+    "evidencia": "Recorte comparativo de calidad y tiempo",
+    "prerrequisitos": [
+      "15.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "16.1",
+        "titulo": "Render y presupuesto de calidad",
+        "subtemas": [
+          {
+            "subtema_id": "16.1.1",
+            "titulo": "Muestreo, ruido y reducción de ruido",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "16.1.2",
+            "titulo": "Resolución, formatos y transparencia",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Comparar dos ajustes y elegir uno que conserve detalle dentro del equipo disponible"
+    }
+  },
+  {
+    "modulo_id": 17,
+    "titulo": "Color y exposición",
+    "semana": 17,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Corregir una imagen preservando detalle de altas luces y sombras",
+    "evidencia": "Antes y después con ajustes documentados",
+    "prerrequisitos": [
+      "16.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "17.1",
+        "titulo": "Color y exposición",
+        "subtemas": [
+          {
+            "subtema_id": "17.1.1",
+            "titulo": "Transformación de visualización y exposición",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "17.1.2",
+            "titulo": "Corrección de color y contraste",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Corregir una imagen preservando detalle de altas luces y sombras"
+    }
+  },
+  {
+    "modulo_id": 18,
+    "titulo": "Composición y capas",
+    "semana": 18,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Combinar render y fondo sin bordes de máscara visibles a tamaño de entrega",
+    "evidencia": "Composición por capas recuperable",
+    "prerrequisitos": [
+      "17.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "18.1",
+        "titulo": "Composición y capas",
+        "subtemas": [
+          {
+            "subtema_id": "18.1.1",
+            "titulo": "Pases, máscaras y transparencia",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "18.1.2",
+            "titulo": "Composición no destructiva y exportación",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Combinar render y fondo sin bordes de máscara visibles a tamaño de entrega"
+    }
+  },
+  {
+    "modulo_id": 19,
+    "titulo": "Perspectiva del montaje fotográfico",
+    "semana": 19,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Integrar un producto con perspectiva y escala justificadas por dos referencias de la fotografía",
+    "evidencia": "Montaje inicial sobre una mesa",
+    "prerrequisitos": [
+      "18.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "19.1",
+        "titulo": "Perspectiva del montaje fotográfico",
+        "subtemas": [
+          {
+            "subtema_id": "19.1.1",
+            "titulo": "Elección de fondo, horizonte y fugas",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "19.1.2",
+            "titulo": "Coincidencia de cámara, escala y apoyo",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Integrar un producto con perspectiva y escala justificadas por dos referencias de la fotografía"
+    }
+  },
+  {
+    "modulo_id": 20,
+    "titulo": "Sombras y oclusión del montaje",
+    "semana": 20,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Corregir apoyo y oclusión para que el producto no flote ni atraviese el fondo",
+    "evidencia": "Montaje con sombra y oclusión verificadas",
+    "prerrequisitos": [
+      "19.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "20.1",
+        "titulo": "Sombras y oclusión del montaje",
+        "subtemas": [
+          {
+            "subtema_id": "20.1.1",
+            "titulo": "Coincidencia de luz y sombra de contacto",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "20.1.2",
+            "titulo": "Oclusión y continuidad de bordes",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Corregir apoyo y oclusión para que el producto no flote ni atraviese el fondo"
+    }
+  },
+  {
+    "modulo_id": 21,
+    "titulo": "Continuidad del montaje",
+    "semana": 21,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Corregir tres pistas que delaten la integración y explicar cada ajuste",
+    "evidencia": "Montaje revisado con recortes de control",
+    "prerrequisitos": [
+      "20.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "21.1",
+        "titulo": "Continuidad del montaje",
+        "subtemas": [
+          {
+            "subtema_id": "21.1.1",
+            "titulo": "Reflejos y continuidad tonal",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "21.1.2",
+            "titulo": "Nitidez, grano y revisión por zonas",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Corregir tres pistas que delaten la integración y explicar cada ajuste"
+    }
+  },
+  {
+    "modulo_id": 22,
+    "titulo": "Proyecto: alcance y referencias",
+    "semana": 22,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Definir un producto sencillo y dos imágenes finales con alcance realizable",
+    "evidencia": "Ficha y referencias del proyecto",
+    "prerrequisitos": [
+      "21.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "22.1",
+        "titulo": "Proyecto: alcance y referencias",
+        "subtemas": [
+          {
+            "subtema_id": "22.1.1",
+            "titulo": "Especificación y referencias propias",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "22.1.2",
+            "titulo": "Plan de escena y lista de criterios",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Definir un producto sencillo y dos imágenes finales con alcance realizable"
+    }
+  },
+  {
+    "modulo_id": 23,
+    "titulo": "Proyecto: modelo definitivo",
+    "semana": 23,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Cerrar un modelo sin defectos visibles en las vistas previstas y con dimensiones documentadas",
+    "evidencia": "Modelo final y vistas de inspección",
+    "prerrequisitos": [
+      "22.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "23.1",
+        "titulo": "Proyecto: modelo definitivo",
+        "subtemas": [
+          {
+            "subtema_id": "23.1.1",
+            "titulo": "Dimensiones, componentes y superficies",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "23.1.2",
+            "titulo": "UV y control de geometría",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Cerrar un modelo sin defectos visibles en las vistas previstas y con dimensiones documentadas"
+    }
+  },
+  {
+    "modulo_id": 24,
+    "titulo": "Proyecto: materiales y cámara",
+    "semana": 24,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Preparar materiales y encuadre coherentes con las referencias del producto",
+    "evidencia": "Escena final y prueba de baja resolución",
+    "prerrequisitos": [
+      "23.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "24.1",
+        "titulo": "Proyecto: materiales y cámara",
+        "subtemas": [
+          {
+            "subtema_id": "24.1.1",
+            "titulo": "Materiales finales y etiqueta",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "24.1.2",
+            "titulo": "Cámara, estudio y prueba de iluminación",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Preparar materiales y encuadre coherentes con las referencias del producto"
+    }
+  },
+  {
+    "modulo_id": 25,
+    "titulo": "Proyecto: imagen de estudio",
+    "semana": 25,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Entregar una imagen de estudio legible y corregir artefactos detectados",
+    "evidencia": "Imagen de catálogo y ajustes de render",
+    "prerrequisitos": [
+      "24.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "25.1",
+        "titulo": "Proyecto: imagen de estudio",
+        "subtemas": [
+          {
+            "subtema_id": "25.1.1",
+            "titulo": "Prueba de calidad y correcciones",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "25.1.2",
+            "titulo": "Render de catálogo y exportación",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Entregar una imagen de estudio legible y corregir artefactos detectados"
+    }
+  },
+  {
+    "modulo_id": 26,
+    "titulo": "Proyecto: imagen contextual y entrega",
+    "semana": 26,
+    "minutos_dia": 20,
+    "minutos": 140,
+    "objetivo": "Entregar una imagen contextual coherente y justificar cinco decisiones del proceso",
+    "evidencia": "Montaje, escena editable y bitácora final",
+    "prerrequisitos": [
+      "25.1.2"
+    ],
+    "temas": [
+      {
+        "tema_id": "26.1",
+        "titulo": "Proyecto: imagen contextual y entrega",
+        "subtemas": [
+          {
+            "subtema_id": "26.1.1",
+            "titulo": "Montaje final en fotografía",
+            "dias": [
+              1,
+              2,
+              3
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          },
+          {
+            "subtema_id": "26.1.2",
+            "titulo": "Evaluación, corrección y presentación",
+            "dias": [
+              4,
+              5,
+              6
+            ],
+            "minutos": 60,
+            "tipo": "Mixto",
+            "requiere_codigo": false
+          }
+        ]
+      }
+    ],
+    "evaluacion": {
+      "dia": 7,
+      "minutos": 20,
+      "criterio": "Entregar una imagen contextual coherente y justificar cinco decisiones del proceso"
+    }
+  }
+]

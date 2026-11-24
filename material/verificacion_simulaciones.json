@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Z modifica punto",
+      "pass": true
+    },
+    {
+      "name": "Distancia no altera ortográfica",
+      "pass": true
+    },
+    {
+      "name": "Reset coordenadas",
+      "pass": true
+    },
+    {
+      "name": "32 combinaciones extremas visibles",
+      "pass": true
+    },
+    {
+      "name": "Rugosidad cambia imagen",
+      "pass": true
+    },
+    {
+      "name": "Luz cambia imagen",
+      "pass": true
+    },
+    {
+      "name": "Reset luz",
+      "pass": true
+    }
+  ],
+  "errors": [],
+  "pass": true
+}
